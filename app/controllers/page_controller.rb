@@ -4,4 +4,7 @@ class PageController < ApplicationController
 
   def two
   end
+
+  def three
+  end
 end
